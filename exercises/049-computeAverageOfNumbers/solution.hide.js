@@ -8,3 +8,5 @@ function computeAverageOfNumbers(nums) {
     let avg = total / nums.length;
     return avg;
   }
+
+  
